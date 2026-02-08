@@ -29,10 +29,6 @@ Some things I’m currently building:
 - **Wellness App** — applying machine learning to practical health problems  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/J-Hemanth/J-Hemanth/output/github-contribution-grid-snake.svg" alt="github contribution snake"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/j-hemanth">LinkedIn</a>
   ·
   <a href="mailto:hemanthjanadri477@gmail.com">Email</a>
