@@ -52,27 +52,9 @@ An ML-powered system for analyzing financial reports and assessing creditworthin
 
 ---
 
-**SafeRoute** — Intelligent Safe Travel Routing  
+**[SafeRoute](https://github.com/Janadri-Hemanth/Safe_Route_AI)** — Intelligent Safe Travel Routing  
 A route recommendation system that analyzes risk factors and predictive models to suggest safer travel paths. A practical application of machine learning to public safety.  
 `Python · Machine Learning · Data Analysis`
-
----
-
-**EduGenie** *(in progress)* — Hyper-Personalized AI Tutor  
-Experimenting with adaptive K–12 STEM learning — personalized paths, real-time doubt resolution via AI, and progress tracking designed around how students actually learn.  
-`React.js · Node.js · OpenAI API · MongoDB`
-
----
-
-**AI Public Health Chatbot** *(in progress)* — Government of Odisha · SIH Problem ID: 13SIH25049  
-An AI/NLP chatbot to improve public health awareness — disease information, symptom guidance, and preventive care made accessible to everyone.  
-`Python · NLP · OpenAI API`
-
----
-
-**Multi-UAV Disaster Response System** *(research phase)*  
-Exploring decentralized drone coordination for real-time disaster response — autonomous UAV collaboration, AI-based survivor detection, and distributed area mapping.  
-`YOLOv8 · ROS 2 · Computer Vision · Distributed Systems`
 
 ---
 
