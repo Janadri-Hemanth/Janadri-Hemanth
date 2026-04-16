@@ -40,7 +40,7 @@ I care about fundamentals, readable code, and choosing the right level of comple
 
 ## Projects
 
-**[Swasthya AI](https://github.com/Janadri-Hemanth/Swastya_AI)** — Holistic Wellness Companion  
+**[Swasthya AI](https://github.com/Janadri-Hemanth/Swastya_AI)** &nbsp;•&nbsp; **[Live Demo](http://54.172.123.80/)** — Holistic Wellness Companion  
 An AI-powered wellness platform that delivers personalized health recommendations across chronic conditions — diabetes, hypertension, PCOD, and post-pregnancy recovery. Built with a dual-AI engine, multilingual support, and a gamified progress system. Filed as an Indian Patent (Application No. 202541120401, Published Jan 2026).  
 `React.js · Node.js · OpenAI API · MongoDB · Firebase`
 
